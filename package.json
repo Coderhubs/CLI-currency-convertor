@@ -1,0 +1,19 @@
+{
+  "name": "simra_currency_convertor",
+  "version": "1.0.2",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumra_Jabeen",
+  "license": "ISC",
+  "description": "This is CLI based currency convertor app , which contains only five currency, where you can only convert USD based currency to PKR,EUR,GBP,INR",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
